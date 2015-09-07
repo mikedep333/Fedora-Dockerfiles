@@ -1,12 +1,10 @@
 Fedora-Dockerfiles
 ==================
 
-This is the upstream source for the [fedora-dockerfiles](http://koji.fedoraproject.org/koji/packageinfo?packageID=18023) package.  To get started with Docker on Fedora:
+This is the branch for the X2Go Fedora-Dockerfiles (minimal & MATE).
 
-```
-# sudo yum install docker-io fedora-dockerfiles
-```
+Development was discontinued for reasons explained in [the PR to upstream](https://github.com/fedora-cloud/Fedora-Dockerfiles/pull/84#issuecomment-134573799).
 
-Some [guidelines](https://github.com/scollier/Fedora-Dockerfiles/wiki/Guidelines-for-Creating-Dockerfiles) for contributing to this repo.
+But this is Git! Feel free to fork and continue yourself.
 
-We welcome contributions.
+If you wish to continue on GitLab instead, that is fine by me. Just coorindate with upstream.
